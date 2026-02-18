@@ -5,7 +5,7 @@
 <h1 align="center">Hola, Soy Yamil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture> 
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="400">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300">
 </picture>
 
 ## 🚀 Sobre mí 
@@ -65,12 +65,18 @@
 <br/>
 
 <h2 align="left">⚙️ GitHub Analytics</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YamilCueva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamilCueva&layout=compact&langs_count=8&theme=algolia" />
+  <b>🔥 Contribuciones (Racha Actual)</b><br/>
+  <img src="https://streak-stats.demolab.com?user=YamilCueva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph" />
 </p>
 
-<br clear="right"/>
+<p align="center">
+  <b>📈 Actividad y Flujo de Trabajo</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YamilCueva&radius=16&theme=react&area=true" width="100%" alt="activity-graph graph" />
+</p>
+
+<br clear="both">
 
 ## ✉️ ¡Hablemos!
 
@@ -80,10 +86,10 @@
   <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:yamilcueva647@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/TU_NUMERO_WHATSAPP" target="_blank">
+  <a href="https://wa.me/51tu_numero" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
